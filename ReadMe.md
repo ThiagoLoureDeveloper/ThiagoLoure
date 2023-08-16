@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 👨‍💻 Desenvolvedor Java / Ruby Junior<br>🎓Formado em Análise e Desenvolvimento de Sistemas<br>✔️Em busca da primeira vaga<br>🌐https://www.linkedin.com/in/thiago-loure-94ab54222/
 
 
